@@ -1,7 +1,7 @@
 # Шпаргалка по NPM
 
 ```bash
-npm [command] -h           # описание команды, варианты вызова, алиасы
+npm [command] -h           # описание команды, варианты вызова,
 npm i [package]            # то же, что npm install [package]
 npm i [package] -D         # то же, что npm install [package] --save-dev (установка пакета(ов) как dev-зависимость)
 npm home [package]         # открыть домашнюю страницу пакета
@@ -84,9 +84,4 @@ npm set init.author.url "$SITE"
 
 
 
-## Полезные ссылки
 
-- [Введение в пакетный менеджер NPM для начинающих](http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html#heading-node)
-- [Как устанавливать пакеты без `sudo`](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
-- [Автоматизация задач с помощью npm run](http://frontender.info/task_automation_with_npm_run/)
-- [Почему npm-скрипты?](http://prgssr.ru/development/pochemu-npm-skripty.html#heading-browsersync)
