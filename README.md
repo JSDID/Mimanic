@@ -1,2 +1,2 @@
-# mimander
+# Mimanic
 Примеры запросов 
